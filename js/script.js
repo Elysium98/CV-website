@@ -29,3 +29,5 @@ themeButton.addEventListener("click", () => {
   console.log(getCurrentTheme());
   console.log(getCurrentIcon());
 });
+
+test23
