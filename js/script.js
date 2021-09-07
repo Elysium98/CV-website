@@ -30,4 +30,3 @@ themeButton.addEventListener("click", () => {
   console.log(getCurrentIcon());
 });
 
-test23
